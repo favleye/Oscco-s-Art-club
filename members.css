@@ -1,0 +1,45 @@
+body{
+    background-image: url(./1902-MSR-Design-Haverford-Pennsylvania-Visual-Culture-Arts-Media-Building-05.jpg) ;
+    display: flexbox;
+}
+div{
+    background-color: white;
+    margin: 40px;
+}
+.topbar{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: gray;
+    margin: 20px;
+    padding: 10px;
+    border-color: white;
+    margin-top: 40px;
+    border-top-style: double;
+    z-index: 1;
+}
+.navbar{
+    color: white;
+    background-color: gray;
+    margin: 20px;
+}
+main{
+    background-color: gray;
+    color: white;
+    margin: 20px;
+}
+img{
+    display: flexbox;
+    width: 400px;
+    align-items: center;
+    border-radius: 50px;
+    display: flexbox;
+}
+h1{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    background-color: gray;
+    margin: 20px;
+}
+
